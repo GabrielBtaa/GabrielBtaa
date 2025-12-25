@@ -1,56 +1,63 @@
 # 👨‍💻 Gabriel Batista
 
-**`Desenvolvedor FrontEnd`**
+**Front-End Developer | HTML • CSS • JavaScript**
 
-Me chamo Gabriel Abner Batista Alves, tenho 24 anos e sou natural do Paraná. Concluí o ensino médio, e decidi me dedicar ao estudo de desenvolvimento de software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na GRAN Faculdade. Sou apaixonado por tecnologia e estou em constante aprendizado. 
+My name is Gabriel Batista. I am a **Systems Analysis and Development student** at GRAN Faculdade, focused on **Front-End Development**.  
+I am currently building practical projects to strengthen my skills in **HTML, CSS, and JavaScript**, always following best practices, clean code, and modern UI concepts.
+
+I am seeking an **internship opportunity in Front-End Development**, where I can grow professionally and contribute to real-world projects.
 
 ---
 
-<!-- Portfolio -->
-## Portfolio:
-- [Login Screen HTML CSS](https://github.com/GabrielBtaa/login-screen-html-css)
+## 🚀 Portfolio
 
+Here are some of my projects:
 
-
-### 🤖 Linguagens e Tecnologias
+- 🔐 [**Login Screen — HTML & CSS**](https://github.com/GabrielBtaa/login-screen-html-css)
+    
+## 🧠 Languages & Technologies
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
-###
+> 💡 Java, Spring Boot, and Python are part of my **academic studies and continuous learning**.
 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriellbta/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-batista-07b30433a/)
-
-<br/>
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Coding animation">
 </p>
 
-📊 Estatísticas
 
-###
+## 🎯 Career Goals
+
+- Front-End Development Internship  
+- Grow into a Front-End Junior Developer role  
+- Build modern, accessible, and well-structured web applications  
+
+---
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-batista-07b30433a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriellbta/)
+
+---
+
+
+## 📊 GitHub Stats
 
 <img 
       align="left" 
@@ -59,4 +66,3 @@ Me chamo Gabriel Abner Batista Alves, tenho 24 anos e sou natural do Paraná. Co
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBtaa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
