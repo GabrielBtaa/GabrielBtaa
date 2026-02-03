@@ -14,6 +14,7 @@ I am seeking an **internship opportunity in Front-End Development**, where I can
 Here are some of my projects:
 
 - 🔐 [**Login Screen — HTML & CSS**](https://github.com/GabrielBtaa/login-screen-html-css)
+- 💰 [**Finance Control App — HTML, CSS & JavaScript**](https://gabrielbtaa.github.io/controle-financas/)
     
 ## 🧠 Languages & Technologies
 
