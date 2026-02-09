@@ -15,6 +15,9 @@ Here are some of my projects:
 
 - 🔐 [**Login Screen — HTML & CSS**](https://github.com/GabrielBtaa/login-screen-html-css)
 - 💰 [**Finance Control App — HTML, CSS & JavaScript**](https://github.com/GabrielBtaa/controle-financas)
+- 🛒 [**Loja Online — HTML, CSS, JavaScript & Bootstrap**](https://github.com/GabrielBtaa/online-store)
+
+  
     
 ## 🧠 Languages & Technologies
 
